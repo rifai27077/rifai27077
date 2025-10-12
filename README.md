@@ -8,7 +8,7 @@ I enjoy solving problems, designing clean interfaces, and learning new technolog
 ### 🧠 Skills & Tools
 - **Frontend:** HTML, CSS, JavaScript, React, Laravel Blade  
 - **Backend:** PHP (Laravel), Node.js  
-- **Database:** MySQL, NoSQL  
+- **Database:** SQL, NoSQL  
 - **Version Control:** Git & GitHub  
 - **Deployment:** Cloud, VPS, cPanel  
 
