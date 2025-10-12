@@ -14,17 +14,6 @@ I enjoy solving problems, designing clean interfaces, and learning new technolog
 
 ---
 
-### 💼 Projects
-Here are some of my recent works:
-- **NgaduAja (Complaint Web App)** — A community complaint platform built with Laravel and MySQL.  
-  [🔗 View Project Repository](https://github.com/rifai27077/NgaduAja)
-
-- **Sabaha App** — A digital platform for Hajj and Umrah services built using React and Next.js.  
-  [🔗 Live Demo](https://sahaba-web.vercel.app)  
-  [🔗 View Project Repository](https://github.com/rifai27077/SabahaApp)
-
----
-
 ### 📫 Let's Connect
 - 📧 [ar0860309@gmail.com](mailto:ar0860309@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/arifai27)
