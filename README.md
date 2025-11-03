@@ -5,15 +5,6 @@ I enjoy solving problems, designing clean interfaces, and learning new technolog
 
 ---
 
-### 🧠 Skills & Tools
-- **Frontend:** HTML, CSS, JavaScript, React, Laravel Blade  
-- **Backend:** PHP (Laravel), Node.js  
-- **Database:** SQL, NoSQL  
-- **Version Control:** Git & GitHub  
-- **Deployment:** Cloud, VPS, cPanel  
-
----
-
 ### 📫 Let's Connect
 - 📧 [ar0860309@gmail.com](mailto:ar0860309@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/arifai27)
