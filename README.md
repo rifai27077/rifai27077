@@ -8,4 +8,3 @@ I enjoy solving problems, designing clean interfaces, and learning new technolog
 ### 📫 Let's Connect
 - 📧 [ar0860309@gmail.com](mailto:ar0860309@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/arifai27)
-- 🌍 [GitHub Profile](https://github.com/rifai27077)
