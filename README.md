@@ -38,7 +38,7 @@ I focus on maintainable code, user-centered UI, and solving real-world problems 
 ---
 
 <div align="center">
-  <img src="https://github.com/rifai27077/rifai27077/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/rifai27077/rifai27077/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
