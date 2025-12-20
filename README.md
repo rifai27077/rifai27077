@@ -41,15 +41,6 @@ Currently, I’m actively improving my skills through real projects, optimizing 
 ### Tools & Workflow
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
-### Deployment & Hosting
-- Vercel  
-- Cloud Hosting  
-- cPanel  
-
-### Testing
-- PHPUnit / Jest  
-- Manual Testing  
-
 ---
 
 ## 📫 Connect With Me
