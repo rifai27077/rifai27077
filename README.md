@@ -1,12 +1,9 @@
 <div align="center">
 
-<h1>Ahmad Rifai</h1>
+<h2>Hi, I’m Ahmad Rifai 👋</h2>
+<p><strong>Fullstack Web Developer</strong> — Laravel & Next.js</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2500&pause=900&color=0A66C2&center=true&vCenter=true&width=520&lines=Fullstack+Web+Developer;Building+Clean+%26+Scalable+Web+Apps;Laravel+%7C+Next.js+%7C+Tailwind+CSS" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=laravel,nextjs,react,php,js,tailwind,html,css,git" />
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,react,tailwind,php,js,git" />
 
 </div>
 
