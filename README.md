@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmad+Rifai+%F0%9F%91%8B;Web+Developer+%7C+Laravel+%26+React;Building+Clean+and+Scalable+Web+Apps" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ahmad+Rifai+%F0%9F%91%8B;Fullstack+Web+Developer;Laravel+%7C+Next.js+%7C+Tailwind+CSS" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=laravel,react,js,php,html,css,git" />
+<img src="https://skillicons.dev/icons?i=nextjs,laravel,react,php,js,tailwind,html,css,git" />
 
 </div>
 
@@ -12,27 +12,48 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Web Developer** focused on building **clean, responsive, and scalable web applications**.  
-My main stack is **Laravel** for backend and **React** for frontend.
+I’m a **Fullstack Web Developer** who focuses on building **clean, scalable, and production-ready web applications**.
 
-I care about:
-- 🧠 **Maintainable code**
-- 🎯 **User-focused UI**
-- ⚙️ **Real-world problem solving**
+My core expertise lies in:
+- **Backend:** Laravel, PHP, REST API
+- **Frontend:** Next.js, React, Tailwind CSS
 
-Currently, I’m sharpening my skills by working on practical projects and continuously improving my development workflow.
+I value:
+- 🧠 **Maintainable & readable code**
+- 🎯 **User-focused and responsive UI**
+- ⚙️ **Solving real-world problems with practical solutions**
+
+Currently, I’m actively improving my skills through real projects, optimizing performance, and refining my development workflow.
 
 ---
 
 ## 🛠 Tech Stack
 
-<div align="left">
+### Frontend
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,javascript" />
 
-<img src="https://skillicons.dev/icons?i=laravel,react" /><br/>
-<img src="https://skillicons.dev/icons?i=php,javascript" /><br/>
-<img src="https://skillicons.dev/icons?i=html,css,git" />
+### Backend
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs" />
 
-</div>
+### Database
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
+
+### Authentication
+- Laravel Authentication  
+- JWT (JSON Web Token)  
+- Firebase Authentication  
+
+### Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+
+### Deployment & Hosting
+- Vercel  
+- Cloud Hosting  
+- cPanel  
+
+### Testing
+- PHPUnit / Jest  
+- Manual Testing  
 
 ---
 
