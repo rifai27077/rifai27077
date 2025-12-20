@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmad+Rifai+%F0%9F%91%8B;Fullstack+Web+Developer;Laravel+%7C+Next.js+%7C+Tailwind+CSS;Building+Production-Ready+Web+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmad+Rifai+%F0%9F%91%8B;Fullstack+Web+Developer;Laravel+%7C+Next.js+%7C+Tailwind+CSS" />
 
 <br/>
 
@@ -12,77 +12,48 @@
 
 ## 👋 About Me
 
-I’m a **Fullstack Web Developer** specialized in building **scalable, maintainable, and production-ready web applications**.
+Fullstack Web Developer focused on building **production-ready, scalable web applications**.
 
-I primarily work with **Laravel** on the backend and **Next.js / React** on the frontend, focusing on clean architecture, performance, and real-world usability.
-
-What I bring to a team:
-- 🧠 **Clean & maintainable codebase**
-- 🎯 **Strong focus on user experience**
-- ⚙️ **Practical problem-solving mindset**
-- 🚀 **Ability to deliver real features, not just demos**
-
-I continuously improve by working on real projects, refactoring existing systems, and applying best practices used in production environments.
+I work mainly with **Laravel** (backend) and **Next.js / React** (frontend), emphasizing clean architecture, performance, and real-world usability.
 
 ---
 
-## 🧩 Core Expertise
+## 🧩 Core Stack
 
-### Frontend Development
+**Frontend**  
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,javascript" />
 
-- Component-driven UI with React & Next.js  
-- Responsive design with Tailwind CSS  
-- State management using React Context  
-- SEO-friendly & performance-aware frontend  
-
-### Backend Development
+**Backend**  
 <img src="https://skillicons.dev/icons?i=laravel,php,nodejs" />
 
-- RESTful API development with Laravel  
-- Authentication & authorization systems  
-- Clean MVC architecture  
-- Business logic & data validation  
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
-
-- Relational database design (MySQL, PostgreSQL)  
-- Firebase for real-time & auth-based features  
+**Database & Auth**  
+MySQL · PostgreSQL · Firebase  
+Laravel Auth · JWT · Firebase Auth
 
 ---
 
-## 🔐 Authentication & Security
-- Laravel Authentication  
-- JWT-based authentication  
-- Firebase Authentication  
+## 📌 Selected Case Studies
+
+**Transaction & Inventory System**  
+Problem: Manual sales tracking caused stock errors  
+Solution: Built role-based transaction system with real-time stock updates  
+Stack: Laravel · MySQL · Tailwind CSS
+
+**Community Chat Application**  
+Problem: No simple real-time communication platform  
+Solution: Developed live chat with authentication & message control  
+Stack: Firebase · JavaScript · HTML · CSS
 
 ---
 
-## 🛠 Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+## 🛠 Tools & Deployment
 
-- Git & GitHub (collaboration & version control)  
-- VS Code (daily development environment)  
-- Postman (API testing)  
-- Figma (UI collaboration & design reference)  
+Git · GitHub · VS Code · Postman · Figma  
+Vercel · Cloud Hosting · cPanel
 
 ---
 
-## 🚀 Deployment & Hosting
-- Vercel  
-- Cloud Hosting  
-- cPanel  
-
----
-
-## 🧪 Testing
-- PHPUnit / Jest (basic usage)  
-- Manual testing for feature validation  
-
----
-
-## 📫 Contact & Profiles
+## 📫 Contact
 
 <p align="left">
   <a href="mailto:ar0860309@gmail.com">
