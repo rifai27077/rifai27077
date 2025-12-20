@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmad+Rifai+%F0%9F%91%8B;Fullstack+Web+Developer;Laravel+%7C+Next.js+%7C+Tailwind+CSS" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ahmad+Rifai+%F0%9F%91%8B;Fullstack+Web+Developer;Laravel+%7C+Next.js+%7C+Tailwind+CSS" />
 
 <br/>
 
@@ -10,50 +10,49 @@
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-Fullstack Web Developer focused on building **production-ready, scalable web applications**.
+I’m a **Fullstack Web Developer** who focuses on building **clean, scalable, and production-ready web applications**.
 
-I work mainly with **Laravel** (backend) and **Next.js / React** (frontend), emphasizing clean architecture, performance, and real-world usability.
+My core expertise lies in:
+- **Backend:** Laravel, PHP, REST API
+- **Frontend:** Next.js, React, Tailwind CSS
+
+I value:
+- 🧠 **Maintainable & readable code**
+- 🎯 **User-focused and responsive UI**
+- ⚙️ **Solving real-world problems with practical solutions**
+
+Currently, I’m actively improving my skills through real projects, optimizing performance, and refining my development workflow.
 
 ---
 
-## 🧩 Core Stack
+## 🛠 Tech Stack
 
-**Frontend**  
+### Frontend
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,javascript" />
 
-**Backend**  
+### Backend
 <img src="https://skillicons.dev/icons?i=laravel,php,nodejs" />
 
-**Database & Auth**  
-MySQL · PostgreSQL · Firebase  
-Laravel Auth · JWT · Firebase Auth
+### Database
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
+
+### Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+
+### Deployment & Hosting
+- Vercel  
+- Cloud Hosting  
+- cPanel  
+
+### Testing
+- PHPUnit / Jest  
+- Manual Testing  
 
 ---
 
-## 📌 Selected Case Studies
-
-**Transaction & Inventory System**  
-Problem: Manual sales tracking caused stock errors  
-Solution: Built role-based transaction system with real-time stock updates  
-Stack: Laravel · MySQL · Tailwind CSS
-
-**Community Chat Application**  
-Problem: No simple real-time communication platform  
-Solution: Developed live chat with authentication & message control  
-Stack: Firebase · JavaScript · HTML · CSS
-
----
-
-## 🛠 Tools & Deployment
-
-Git · GitHub · VS Code · Postman · Figma  
-Vercel · Cloud Hosting · cPanel
-
----
-
-## 📫 Contact
+## 📫 Connect With Me
 
 <p align="left">
   <a href="mailto:ar0860309@gmail.com">
