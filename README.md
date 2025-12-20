@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ahmad+Rifai+%F0%9F%91%8B;Fullstack+Web+Developer;Laravel+%7C+Next.js+%7C+Tailwind+CSS" />
+<h1>Ahmad Rifai</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2500&pause=900&color=0A66C2&center=true&vCenter=true&width=520&lines=Fullstack+Web+Developer;Building+Clean+%26+Scalable+Web+Apps;Laravel+%7C+Next.js+%7C+Tailwind+CSS" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=nextjs,laravel,react,php,js,tailwind,html,css,git" />
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,react,php,js,tailwind,html,css,git" />
 
 </div>
 
