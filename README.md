@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ahmad+Rifai+%F0%9F%91%8B;Fullstack+Web+Developer;Laravel+%7C+Next.js+%7C+Tailwind+CSS" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmad+Rifai+%F0%9F%91%8B;Fullstack+Web+Developer;Laravel+%7C+Next.js+%7C+Tailwind+CSS;Building+Production-Ready+Web+Applications" />
 
 <br/>
 
@@ -10,54 +10,79 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I’m a **Fullstack Web Developer** who focuses on building **clean, scalable, and production-ready web applications**.
+I’m a **Fullstack Web Developer** specialized in building **scalable, maintainable, and production-ready web applications**.
 
-My core expertise lies in:
-- **Backend:** Laravel, PHP, REST API
-- **Frontend:** Next.js, React, Tailwind CSS
+I primarily work with **Laravel** on the backend and **Next.js / React** on the frontend, focusing on clean architecture, performance, and real-world usability.
 
-I value:
-- 🧠 **Maintainable & readable code**
-- 🎯 **User-focused and responsive UI**
-- ⚙️ **Solving real-world problems with practical solutions**
+What I bring to a team:
+- 🧠 **Clean & maintainable codebase**
+- 🎯 **Strong focus on user experience**
+- ⚙️ **Practical problem-solving mindset**
+- 🚀 **Ability to deliver real features, not just demos**
 
-Currently, I’m actively improving my skills through real projects, optimizing performance, and refining my development workflow.
+I continuously improve by working on real projects, refactoring existing systems, and applying best practices used in production environments.
 
 ---
 
-## 🛠 Tech Stack
+## 🧩 Core Expertise
 
-### Frontend
+### Frontend Development
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,javascript" />
 
-### Backend
+- Component-driven UI with React & Next.js  
+- Responsive design with Tailwind CSS  
+- State management using React Context  
+- SEO-friendly & performance-aware frontend  
+
+### Backend Development
 <img src="https://skillicons.dev/icons?i=laravel,php,nodejs" />
 
-### Database
+- RESTful API development with Laravel  
+- Authentication & authorization systems  
+- Clean MVC architecture  
+- Business logic & data validation  
+
+### Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
 
-### Authentication
+- Relational database design (MySQL, PostgreSQL)  
+- Firebase for real-time & auth-based features  
+
+---
+
+## 🔐 Authentication & Security
 - Laravel Authentication  
-- JWT (JSON Web Token)  
+- JWT-based authentication  
 - Firebase Authentication  
 
-### Tools & Workflow
+---
+
+## 🛠 Tools & Workflow
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
-### Deployment & Hosting
+- Git & GitHub (collaboration & version control)  
+- VS Code (daily development environment)  
+- Postman (API testing)  
+- Figma (UI collaboration & design reference)  
+
+---
+
+## 🚀 Deployment & Hosting
 - Vercel  
 - Cloud Hosting  
 - cPanel  
 
-### Testing
-- PHPUnit / Jest  
-- Manual Testing  
+---
+
+## 🧪 Testing
+- PHPUnit / Jest (basic usage)  
+- Manual testing for feature validation  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact & Profiles
 
 <p align="left">
   <a href="mailto:ar0860309@gmail.com">
