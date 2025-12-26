@@ -1,36 +1,36 @@
 <div align="center">
   <h1>Ahmad Rifai</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2500&pause=900&color=0A66C2&center=true&vCenter=true&width=520&lines=Fullstack+Web+Developer;Building+Clean+%26+Scalable+Web+Apps;Laravel+%7C+Next.js+%7C+Tailwind+CSS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2500&pause=900&color=0A66C2&center=true&vCenter=true&width=560&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Production-Ready+Web+Apps" />
 
-  <br/>
-  <br/>
+  <br/><br/>
 
-  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,php,js,tailwind,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,html,css,git" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Fullstack Web Developer focused on **production-ready web applications**.
+Frontend Developer specializing in **React, Next.js, and TypeScript**, with hands-on experience building **production-ready web applications**.
 
-I build scalable backends with **Laravel** and modern frontends using **Next.js / React**, prioritizing clean architecture, performance, and real-world usability.
+I focus on developing responsive, scalable, and maintainable user interfaces, integrating REST APIs, and translating real business requirements into clean frontend architecture.
 
-I focus on maintainable code, user-centered UI, and solving real-world problems through practical engineering decisions.
+Currently open to **junior frontend roles**, **remote opportunities**, and **international teams** where modern frontend practices are valued.
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css" />
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=laravel,php,nodejs" />
 
 ### Database
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
+> Backend experience used mainly for API integration and understanding data flow.
 
 ### Tools & Workflow
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
