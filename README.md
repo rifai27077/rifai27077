@@ -57,6 +57,6 @@ Backend experience used mainly for API integration and understanding data flow.
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifai27077&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rifai27077&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </div>
 
