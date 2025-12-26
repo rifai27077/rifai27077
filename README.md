@@ -30,7 +30,7 @@ Currently open to **junior frontend roles**, **remote opportunities**, and **int
 
 ### Database
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
-> Backend experience used mainly for API integration and understanding data flow.
+Backend experience used mainly for API integration and understanding data flow.
 
 ### Tools & Workflow
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
