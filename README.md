@@ -53,10 +53,3 @@ Backend experience used mainly for API integration and understanding data flow.
     <img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Rifai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifai27077&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</div>
-
