@@ -1,61 +1,24 @@
-<div align="center">
-  <h1>Ahmad Rifai</h1>
+# Hi, I'm Ahmad Rifai 👋
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2500&pause=900&color=0A66C2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Laravel;Building+Scalable+Web+Applications" />
+**Full Stack & Frontend Engineer** passionate about building high-performance web applications, real-time transaction systems, and secure web architectures.
 
-  <br/><br/>
-
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,html,css,laravel,php,git" />
-</div>
-
----
-
-## 👨‍💻 Tentang Saya
-
-Saya adalah **Full Stack Developer** dengan fokus pada **React / Next.js** serta pengalaman backend menggunakan **PHP (Laravel) dan REST API**.
-
-Terbiasa membangun aplikasi web **end-to-end**, termasuk:
-- Sistem autentikasi (login, register, reset password)
-- Dashboard multi-role (Admin, User, Partner)
-- Integrasi payment gateway (Midtrans)
-- Desain database relasional (MySQL & PostgreSQL)
-
-Memiliki pengalaman mengerjakan **project real (freelance & aplikasi kompleks)** serta terbiasa menggunakan Git dalam workflow pengembangan. Siap berkontribusi dalam pengembangan produk digital.
+- 🔭 **Currently Building:** Enterprise web solutions & POS ecosystems with React, Next.js, and Lumen.
+- 🚀 **Featured Production Work:** [kasair.id](https://kasair.id) — Multi-terminal POS with Dynamic QRIS.
+- 🛡️ **Security Focus:** Defense-in-depth, XSS remediation, and CSP nonce implementation for corporate portals (e.g., Orang Tua Group).
+- 🌐 **Open For:** International Remote Roles (Full Stack / Frontend Developer).
 
 ---
 
-## 🛠 Tech Stack
+### 🛠️ Tech Stack & Capabilities
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,go" />
-
-### Database
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+- **Frontend:** React, Next.js (App Router), TypeScript, Tailwind CSS, Radix UI, Three.js
+- **Backend & APIs:** PHP, Laravel, Lumen, Node.js, RESTful APIs, OAuth2, Strapi CMS
+- **Databases & Real-time:** PostgreSQL, MySQL, Google Cloud Firestore, Firebase, Redis
+- **Fintech & Security:** Xendit (Dynamic QRIS), Midtrans, Webhooks Reconciliation, AppSec (DOMPurify, CSP)
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rifai27077/rifai27077/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-## 📫 Kontak
-
-<p align="center">
-  <a href="mailto:ahmadrifai1212@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ahmadrifai1212%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/rifai27077">
-    <img src="https://img.shields.io/badge/GitHub-rifai27077-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/arifai27">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Rifai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+### 📬 Connect With Me
+- **LinkedIn:** [linkedin.com/in/arifai27](https://linkedin.com/in/arifai27)
+- **Email:** ahmadrifai121209@gmail.com
+- **Location:** Indonesia (Available for Global Remote & Async Work)
