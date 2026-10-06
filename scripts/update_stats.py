@@ -1,15 +1,20 @@
 #!/usr/bin/env python3
-import urllib.request, json, datetime, os
+import urllib.request, json, datetime, os, sys
 
 GH_USER = "rifai27077"
 GL_URL = "https://git.wellmagic.id"
 GL_USER_ID = 33
-GL_TOKEN = os.environ.get("GITLAB_TOKEN", "")
+GL_TOKEN = os.environ.get("GITLAB_TOKEN", "").strip()
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT = os.path.abspath(os.path.join(HERE, ".."))
 STATS_OUT = os.path.join(REPO_ROOT, "stats.svg")
 HEATMAP_OUT = os.path.join(REPO_ROOT, "contrib-heatmap.svg")
+
+if not GL_TOKEN:
+    print("❌ ERROR: Environment variable GITLAB_TOKEN belum diset di GitHub Secrets!")
+    print("Membatalkan proses agar file stats.svg & contrib-heatmap.svg yang sudah ada TIDAK tertimpa.")
+    sys.exit(1)
 
 # 1. Fetch GitHub
 print("1. Mengambil data GitHub...")
@@ -45,7 +50,12 @@ while True:
                 gl_total += cnt
             page += 1
     except Exception as e:
+        print(f"Selesai fetch GitLab di halaman {page}: {e}")
         break
+
+if gl_total == 0:
+    print("❌ PERINGATAN: Tidak ada data GitLab yang berhasil ditarik. Token mungkin salah/expired.")
+    sys.exit(1)
 
 # Build unified days array
 combined_days = []
