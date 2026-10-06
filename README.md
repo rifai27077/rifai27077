@@ -15,7 +15,11 @@
 
 <h3><code>rifai@github ~ $ whoami</code></h3>
 
+<!-- Previous:
 <p><b>Ahmad Rifai</b> — Full Stack Engineer delivering end-to-end products and complex features from concept to production.<br>Specialized in real-time transactional systems, scalable backend APIs, and snappy web interfaces.</p>
+-->
+
+<p><b>Ahmad Rifai</b> · Full Stack Engineer building intuitive, end-to-end web products and complex features from concept to production.<br>Focused on real-time transactional systems, scalable APIs, and responsive interfaces.</p>
 
 <br>
 
