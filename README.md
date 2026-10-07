@@ -1,15 +1,5 @@
 <div align="center">
 
-<!-- animated contribution graph: real data, boxes reveal cell by cell
-     (regenerated daily by .github/workflows/update-profile-art.yml) -->
-
-<h3><code>rifai@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Ahmad Rifai's GitHub & GitLab contribution graph — auto-refreshed daily" />
-
-<br>
-<br>
-
 <!-- ascii portrait (left) + streak/numbers card (right). both svgs are
      840x880 so equal widths give equal heights. -->
 
@@ -29,6 +19,16 @@
 <td valign="top"><img src="./stats.svg" width="420" alt="Ahmad Rifai's streak and contribution stats — auto-refreshed daily" /></td>
 </tr>
 </table>
+
+<br>
+<br>
+
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+
+<h3><code>rifai@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Ahmad Rifai's GitHub & GitLab contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
