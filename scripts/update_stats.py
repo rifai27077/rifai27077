@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import urllib.request, json, datetime, os, sys
 
-GH_USER = "rifai27077"
+GH_USER = "arifai27"
 GL_URL = "https://git.wellmagic.id"
 GL_USER_ID = 33
 GL_TOKEN = os.environ.get("GITLAB_TOKEN", "").strip()

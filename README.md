@@ -39,7 +39,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arifai27-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arifai27)
 [![Email](https://img.shields.io/badge/Email-ahmadrifai121209%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadrifai121209@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-rifai27077-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rifai27077)
+[![GitHub](https://img.shields.io/badge/GitHub-arifai27-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arifai27)
 
 <br>
 
